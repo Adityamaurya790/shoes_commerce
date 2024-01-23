@@ -1,36 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shoe Commerce - README</title>
-    <style>
-        /* Add your custom styles for the README here */
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-      h1, h2, h3 {
-            color: #333;
-        }
-      code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
-      pre {
-            background-color: #f8f8f8;
-            border: 1px solid #ddd;
-            padding: 10px;
-            overflow: auto;
-        }
-        /* Add more styles as needed */
-    </style>
-</head>
-
 <body>
     <h1>Shoe Commerce</h1>
     <p>Welcome to Shoe Commerce! This is a web project that showcases a dynamic and visually appealing website for a shoe commerce business. Below, you'll find a comprehensive README file to guide you through the project.</p>
@@ -93,13 +60,6 @@
         <li>Push your changes to your fork:</li>
     </ol>
 <pre><code>git push origin feature/new-feature</code></pre>
-<ol start="5">
-        <li>Create a pull request on GitHub.</li>
-    </ol>
-    <h2 id="license">License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use and modify the code according to your needs.</p>
-<p>Enjoy exploring Shoe Commerce! If you have any questions or feedback, feel free to reach out.</p>
+
 
 </body>
-
-</html>
